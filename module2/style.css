@@ -69,6 +69,7 @@ html{
     }
     .col-md-5 {
       width: 41.66%;
+      left:25px;
     }
     .col-md-6 {
       width: 50%;
